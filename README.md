@@ -1,10 +1,3 @@
-# starter-project
+# qovery-engine landing page
 
-pure frontend project starter configured with :
-
-- Webpack
-- Sass
-- Babel
-- EsLint
-- Minification
-- Images size optimisation# qovery-engine
+simple pure html and css integration of the qovery engine page landing. tools: webpack, postcss, sass
